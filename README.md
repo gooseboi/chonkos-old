@@ -1,5 +1,5 @@
 # ChonkOS
-This is a toy operating system I'm writing to learn more Rust and os devving.
+This is a toy operating system I'm writing to learn more Rust and low-level development.
 
 # Building
 
