@@ -3,5 +3,5 @@ name = "chonkos"
 version = "0.0.1"
 
 [lib]
-path = "src/kmain.rs"
+path = "src/kernel/kmain.rs"
 crate-type = ["staticlib"]
