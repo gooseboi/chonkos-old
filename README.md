@@ -1,5 +1,6 @@
 # ChonkOS
 This is a toy operating system I'm writing to learn more Rust and low-level development.
+This is an old attempt at this. The project is restarted [here](https://github.com/gooseboi/chonkos)
 
 # Building
 
